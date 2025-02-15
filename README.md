@@ -1,8 +1,8 @@
 # POO
 ## Atividades de Programação Orientada a Objetos
 
-# Aluno
+## Aluno
 ### Walber Luis Santos da Paixão
 
-# Professor
+## Professor
 ### Mario Hozano
