@@ -3,7 +3,7 @@ package org.example;
 public class Stove extends Product {
     private int burners;
 
-    public Stove(String brand, String price, int size, int burners) {
+    public Stove(String brand, double price, int burners) {
         super(brand, price);
         this.burners = burners;
     }
