@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class ShoppingCart {
     private int customerID;
     private ArrayList<Product> productList;
