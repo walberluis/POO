@@ -7,9 +7,9 @@ public class ShoppingCart {
     private int customerId;
     private ArrayList<Product> productList;
 
-    public ShoppingCart(int customerId, ArrayList<Product> ProductList) {
+    public ShoppingCart(int customerId) {
         this.customerId = customerId;
-        this.productList = ProductList;
+        this.productList = new ArrayList<>();
     }
 
     public void addProduct(Product product) {
